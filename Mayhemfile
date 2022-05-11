@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-libfsm
+target: fsm
+
+cmds:
+  - cmd: /libfsm/build/bin/fsm @@
+    filepath: /test.fsm
